@@ -27,3 +27,5 @@ This is a classification type of ML model. Initially an EDA has been done to und
 This project has been entirely completed in Jupyter IDE with Python 3.8.5.
 
 Libraries used: Pandas, NumPy, Matplotlib, Seaborn, Plotly and PyCaret.
+
+Details of the EDA and model setup are discussed in my article https://www.analyticsvidhya.com/blog/2021/07/diabetes-prediction-with-pycaret/ published on AnalyticsVidhya.
