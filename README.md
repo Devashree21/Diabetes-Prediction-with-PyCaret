@@ -1,6 +1,5 @@
 # Diabetes-Prediction-with-PyCaret
-# stroke-prediction-machine-learning
-machine learning model for stroke prediction 
+machine learning model for prediction of diabetes
 
 **Here is a short FAQ about this repository**
 
